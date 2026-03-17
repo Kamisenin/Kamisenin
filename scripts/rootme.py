@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = "Kami"
+USERNAME = "Kami-1072630"
 
 url = f"https://www.root-me.org/{USERNAME}?lang=en"
 
