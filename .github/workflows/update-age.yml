@@ -18,15 +18,15 @@ jobs:
           BIRTHDATE="2000-01-01"
 
           AGE=$(python3 <<EOF
-from datetime import date
-
-birth = date.fromisoformat("$BIRTHDATE")
-today = date.today()
-
-age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
-print(age)
-EOF
-          )
+          from datetime import date
+          
+          birth = date.fromisoformat("$BIRTHDATE")
+          today = date.today()
+          
+          age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+          print(age)
+          EOF
+                    )
 
           sed -i "s/<!--AGE-->.*<!--\/AGE-->/<!--AGE-->$AGE<!--\/AGE-->/" README.md
 
