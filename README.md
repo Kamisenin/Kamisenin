@@ -32,6 +32,10 @@ I've been doing lots of project since entering my school wether in or out, mainl
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=pink)
 
+### 💻 Projects
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception)](https://github.com/Kamisenin/Inception)
 
 ### ⚙️ GitHub Analytics
 ---
