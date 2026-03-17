@@ -4,7 +4,8 @@
 
 I'm Camille a 20 year old 42 Angoulême student currently searching for an Internship in Reverse Engineering
 
-I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the @18Corp-DevSquad a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. In The meantime I'm practicing Reverse Engineering on ![Root Me](https://img.shields.io/badge/root--me-hacking-1a1a2e?style=flat&logo=rootme&logoColor=white)
+I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad)  a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. In The meantime I'm practicing Reverse Engineering on ![Root Me](https://img.shields.io/badge/root--me-hacking-1a1a2e?style=flat&logo=rootme&logoColor=white)
+
 
 
 ### 📕 About me
@@ -14,10 +15,9 @@ I've been doing lots of project since entering my school wether in or out, mainl
 - ⚔️ I also do a lot of HEMA (Historical European Martial Art), mainly Longsword
 - 🎸 I play Bass Guitar
 - 🐉 I play DnD and lots of other Roplaying Games
-- 
 
 ### 🛠 Technical Skills
-
+---
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -34,7 +34,7 @@ I've been doing lots of project since entering my school wether in or out, mainl
 
 
 ### ⚙️ GitHub Analytics
-
+---
 <p align="center">
 <a href="https://github.com/Kamisenin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kamisenin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
