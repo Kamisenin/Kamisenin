@@ -4,7 +4,7 @@
 
 I'm Camille a <!--AGE-->19<!--/AGE--> year old 42 Angoulême student currently searching for an Internship in Reverse Engineering
 
-I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad)  a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. In The meantime I'm practicing Reverse Engineering on ![Root Me](https://img.shields.io/badge/root--me-hacking-1a1a2e?style=flat&logo=rootme&logoColor=white)
+I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad)  a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. In The meantime I'm practicing Reverse Engineering on [![Root Me](https://img.shields.io/badge/root--me-hacking-1a1a2e?style=flat&logo=rootme&logoColor=white)](https://www.root-me.org/Kami)
 
 
 
@@ -35,7 +35,7 @@ I've been doing lots of project since entering my school wether in or out, mainl
 ### 💻 Projects
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception)
+&nbsp;[![Inception Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; [![MiniRT Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=miniRT&cache_seconds=1)](https://github.com/Kamisenin/miniRT)
 
 ### ⚙️ GitHub Analytics
 ---
