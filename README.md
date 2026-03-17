@@ -37,11 +37,11 @@ I've been doing lots of project since entering my school wether in or out, mainl
 
 &nbsp;[![Inception Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception) &emsp;&nbsp; [![MiniRT Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=miniRT&cache_seconds=1)](https://github.com/Kamisenin/miniRT)
 
-<!--ROOTME_START-->
-## 🧠 RootMe
+### 🧠 RootMe
+---
 
+My RootMe profile [https://www.root-me.org/Kami-1072630](https://www.root-me.org/Kami-1072630)
 
-<!--ROOTME_END-->
 
 ### ⚙️ GitHub Analytics
 ---
