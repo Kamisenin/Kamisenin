@@ -1,0 +1,39 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Calculate and update age
+        run: |
+          BIRTHDATE="2000-01-01"
+
+          AGE=$(python3 <<EOF
+from datetime import date
+
+birth = date.fromisoformat("$BIRTHDATE")
+today = date.today()
+
+age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+print(age)
+EOF
+          )
+
+          sed -i "s/<!--AGE-->.*<!--\/AGE-->/<!--AGE-->$AGE<!--\/AGE-->/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update age" || exit 0
+          git push
