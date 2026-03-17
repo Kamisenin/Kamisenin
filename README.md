@@ -40,7 +40,9 @@ I've been doing lots of project since entering my school wether in or out, mainl
 ## 🧠 RootMe
 
 <!--ROOTME_START-->
-Chargement...
+## 🧠 RootMe
+
+
 <!--ROOTME_END-->
 
 ### ⚙️ GitHub Analytics
