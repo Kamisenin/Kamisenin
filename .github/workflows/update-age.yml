@@ -18,7 +18,7 @@ jobs:
 
       - name: Calculate and update age
         run: |
-          BIRTHDATE="2000-01-01"
+          BIRTHDATE="2006-09-25"
 
           AGE=$(python3 <<EOF
           from datetime import date
