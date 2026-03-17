@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Hello There !](https://giphy.com/explore/hello-there!)
 <!--
 **Kamisenin/Kamisenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
