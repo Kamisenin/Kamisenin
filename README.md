@@ -1,5 +1,6 @@
 ## Hi there 👋
-<!--![star-wars-hello-there](https://tenor.com/6uZZ.gif)
+
+![star-wars-hello-there](https://github.com/user-attachments/assets/f5335d75-edd8-4bc8-839d-cc5c01bc26b4)
 
 
 **Kamisenin/Kamisenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
