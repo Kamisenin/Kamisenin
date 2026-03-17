@@ -35,7 +35,7 @@ I've been doing lots of project since entering my school wether in or out, mainl
 ### 💻 Projects
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception)](https://github.com/Kamisenin/Inception)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception)
 
 ### ⚙️ GitHub Analytics
 ---
