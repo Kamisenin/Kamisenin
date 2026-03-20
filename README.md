@@ -7,8 +7,8 @@ I'm Camille a <!--AGE-->19<!--/AGE--> year old 42 Angoulême student currently s
 I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad)  a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. In The meantime I'm practicing Reverse Engineering on [![Root Me](https://img.shields.io/badge/root--me-hacking-1a1a2e?style=flat&logo=rootme&logoColor=white)](https://www.root-me.org/Kami-1072630)
 
 📄 Please have a look at my Résumé for more details about me
-- [English](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle_English.pdf)
-- [French](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle.pdf)
+- 🇬🇧 [English](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle_English.pdf)
+- 🇫🇷 [French](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle.pdf)
 
 ### 📕 About me
 ---
