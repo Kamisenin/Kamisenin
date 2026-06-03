@@ -38,7 +38,7 @@ I've been doing lots of project since entering my school wether in or out, mainl
 ### 💻 Projects
 ---
 
-&nbsp;[![Inception Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception) &emsp;&nbsp; [![MiniRT Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=minirt&cache_seconds=1)](https://github.com/Kamisenin/minirt)
+&nbsp;[![Inception Card](github-readme-stats-kappa-one.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception) &emsp;&nbsp; [![MiniRT Card](https://github-readme-stats-kappa-one.vercel.app/api/pin/?username=Kamisenin&repo=minirt&cache_seconds=1)](https://github.com/Kamisenin/minirt)
 
 
 ### ⚙️ GitHub Analytics
