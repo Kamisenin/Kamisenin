@@ -2,13 +2,14 @@
 
 ## Hello there 👋 ! Welcome To My Github Profile
 
-I'm Camille a <!--AGE-->19<!--/AGE--> years old 42 Angoulême student currently searching for an Internship in Reverse Engineering
+I'm Camille a <!--AGE-->19<!--/AGE--> years old 42 Angoulême student currently searching for an Internship or an Apprenticeship in Software Engineering
 
-I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad)  a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. In The meantime I'm practicing Reverse Engineering on [![Root Me](https://img.shields.io/badge/root--me-hacking-1a1a2e?style=flat&logo=rootme&logoColor=white)](https://www.root-me.org/Kami-1072630)
+I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad) a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. I'm currently interested in Embedded Software Engineering, going for a specialisation in Software Architecture
+
 
 📄 Please have a look at my Résumé for more details about me
-- 🇬🇧 [English](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle_English.pdf)
-- 🇫🇷 [French](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle.pdf)
+- 🇬🇧 [English](https://github.com/user-attachments/files/28572587/CV_Camille_DEV_English.pdf)
+- 🇫🇷 [French](https://github.com/user-attachments/files/28570187/CV_Camille_DEV.pdf)
 
 ### 📕 About me
 ---
@@ -20,11 +21,11 @@ I've been doing lots of project since entering my school wether in or out, mainl
 
 ### 🛠 Technical Skills
 ---
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Paper Api](https://img.shields.io/badge/API-Paper-blue)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -38,11 +39,6 @@ I've been doing lots of project since entering my school wether in or out, mainl
 ---
 
 &nbsp;[![Inception Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception) &emsp;&nbsp; [![MiniRT Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamisenin&repo=miniRT&cache_seconds=1)](https://github.com/Kamisenin/miniRT)
-
-### 🧠 RootMe
----
-
-My RootMe profile [https://www.root-me.org/Kami-1072630](https://www.root-me.org/Kami-1072630)
 
 
 ### ⚙️ GitHub Analytics
