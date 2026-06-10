@@ -2,7 +2,7 @@
 
 ## Hello there 👋 ! Welcome To My Github Profile
 
-I'm Camille a <!--AGE-->19<!--/AGE--> years old 42 Angoulême student currently searching for an Internship or an Apprenticeship in Software Engineering
+I'm Camille a <!--AGE-->19<!--/AGE--> years old student at 42 Angoulême currently searching for an Internship or an Apprenticeship in Software Engineering
 
 I've been doing lots of project since entering my school wether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developping with the [18corporation](https://github.com/18Corp-DevSquad) a Minecraft Roleplay Server using only plugins we have developped using the Paper Api. I'm currently interested in Embedded Software Engineering, going for a specialisation in Software Architecture
 
