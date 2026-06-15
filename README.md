@@ -17,7 +17,7 @@ I've been doing lots of project since entering my school wether in or out, mainl
 - 🤺 I Love Fencing, i've been doing this sport for 12 years
 - ⚔️ I also do a lot of HEMA (Historical European Martial Art), mainly Longsword
 - 🎸 I play Bass Guitar
-- 🐉 I play DnD and lots of other Roplaying Games
+- 🐉 I play DnD and lots of other Roleplaying Games
 
 ### 🛠 Technical Skills
 ---
