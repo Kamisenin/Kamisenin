@@ -16,7 +16,7 @@ I've been doing lots of project since entering my school wether in or out, mainl
 - ✈️ I'm from France
 - 🤺 I Love Fencing, i've been doing this sport for 12 years
 - ⚔️ I also do a lot of HEMA (Historical European Martial Art), mainly Longsword and Rapier
-- 📜 I also occasionnant participante in medieval reenactment of a military camp of the 15th century, doing armorred combat
+- 📜 I also occasionnaly participate in medieval reenactment of a military camp of the 15th century, doing armorred combat spectacle in medieval events
 - 🎸 I play Bass Guitar
 - 🐉 I play DnD and lots of other Roleplaying Games
 
