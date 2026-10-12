@@ -39,8 +39,13 @@ I've been doing lots of project since entering my school wether in or out, mainl
 ### 💻 Projects
 ---
 
-&nbsp;[![Inception Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=Inception&cache_seconds=1)](https://github.com/Kamisenin/Inception) &emsp;&nbsp; [![MiniRT Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=minirt&cache_seconds=1)](https://github.com/Kamisenin/minirt) &nbsp; [![Webserv Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=Webserv&cache_seconds=1)](https://github.com/Kamisenin/WebServ)
-
+<p align="center">
+  <a href="https://github.com/Kamisenin/Inception"><img align="top" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=Inception&hide_border=true&cache_seconds=1" alt="Inception Card" /></a>
+  <a href="https://github.com/Kamisenin/minirt"><img align="top" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=minirt&hide_border=true&cache_seconds=1" alt="MiniRT Card" /></a>
+  <br>
+  <a href="https://github.com/Kamisenin/WebServ"><img align="top" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=WebServ&hide_border=true&cache_seconds=1" alt="Webserv Card" /></a>
+  <a href="https://github.com/Kamisenin/Piscine-Embbedded"><img align="top" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kamisenin&repo=Piscine-Embbedded&hide_border=true&cache_seconds=1" alt="Piscine Embbedded Card" /></a>
+</p>
 
 ### ⚙️ GitHub Analytics
 ---
