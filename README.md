@@ -8,8 +8,8 @@ I've been doing lots of project since entering my school whether in or out, main
 
 
 📄 Please have a look at my Résumé for more details about me
-- 🇬🇧 [English](https://github.com/user-attachments/files/28572587/CV_Camille_DEV_English.pdf)
-- 🇫🇷 [French](https://github.com/user-attachments/files/28570187/CV_Camille_DEV.pdf)
+- 🇬🇧 [English](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle.pdf)
+- 🇫🇷 [French](https://github.com/Kamisenin/Kamisenin/blob/main/CV_Camille_Senelle_English.pdf)
 
 ### 📕 About me
 ---
