@@ -2,9 +2,9 @@
 
 ## Hello there 👋 ! Welcome To My Github Profile
 
-I'm Camille a <!--AGE-->19<!--/AGE--> years-old student at 42 Angoulême currently searching for an Internship or an Apprenticeship in Software Engineering and Electrical Engineering
+I'm Camille a <!--AGE-->20<!--/AGE--> years-old student at 42 Angoulême currently searching for an Internship or an Apprenticeship in Software Engineering and Electrical Engineering
 
-I've been doing lots of project since entering my school whether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developing with the [18corporation](https://github.com/18Corp-DevSquad) a Minecraft Roleplay Server using only plugins we have developed using the Paper Api. I'm currently interested in Embedded Software Engineering, going for a specialisation in Software Architecture
+I've been doing lots of project since entering my school whether in or out, mainly you can't see it on my repositories cause its private but since 2023 i've been developing with the [18corporation](https://github.com/18Corp-DevSquad) a Minecraft Roleplay Server using only plugins we have developed using the Paper Api. I'm currently interested in Embedded Software Engineering, going for a specialization in Software Architecture
 
 
 📄 Please have a look at my Résumé for more details about me
@@ -18,7 +18,7 @@ I've been doing lots of project since entering my school whether in or out, main
 - ⚔️ I also do a lot of HEMA (Historical European Martial Art), mainly Longsword and Rapier
 - 📜 I also occasionally participate in medieval reenactment of a military camp of the 15th century, doing armored combat spectacle in medieval events
 - 🎸 I play Bass Guitar
-- 🐉 I play DnD and lots of other Roleplaying Games
+- 🐉 I play DnD and lots of other Role-playing Games
 
 ### 🛠 Technical Skills
 ---
